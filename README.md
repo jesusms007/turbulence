@@ -1,6 +1,6 @@
 # Welcome
 
-This repository contains the code files from the paper X.
+This repository contains the code files from the paper [Modelling Turbulence in Galactic Centers](https://arxiv.org/abs/1909.12307).
 
 The version of the Gadget2 code is located in the folder "code". Please see the file "code/details.docx" for more information.
 
